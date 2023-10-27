@@ -1,0 +1,9 @@
+
+
+
+#paneStart {
+    -fx-background-image: url(../images/startback.jpg);
+    -fx-background-repeat: stretch;
+    -fx-background-position: center;
+
+}
